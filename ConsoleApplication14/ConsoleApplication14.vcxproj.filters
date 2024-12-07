@@ -20,8 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="data.txt" />
-    <Text Include="output.txt" />
     <Text Include="labyrinth.txt" />
     <Text Include="exit_labyrinth.txt" />
   </ItemGroup>

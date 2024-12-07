@@ -130,10 +130,8 @@
     <ClCompile Include="ConsoleApplication14.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="data.txt" />
     <Text Include="exit_labyrinth.txt" />
     <Text Include="labyrinth.txt" />
-    <Text Include="output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
